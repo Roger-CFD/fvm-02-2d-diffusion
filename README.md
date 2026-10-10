@@ -1,0 +1,4 @@
+- Objective: This project solves the 2d temperature diffusion equation on a simple domain using finite volume method.
+- Methodology: Finite volume method with Central differencing is used.
+- Implementation: The python code solves the discretization scheme using iterative method and comes with 3 python script , one for the main code , a solver and a variable script.
+- Results: A plot of the numerical error is done against the iteration number for every 1000 iterations and a 2d contour plot of temperature shows smooth isotherms ,symmetric about y =x .
